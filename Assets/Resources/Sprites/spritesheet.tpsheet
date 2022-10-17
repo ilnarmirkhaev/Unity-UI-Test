@@ -1,0 +1,43 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2fdb256cde00fb3fe4c8f24aded8469c:ef09f0c6ef1929e64b97abc7f13c6a28:1b6ff94623e0282c57e59f9e13c5e64b$
+#
+:format=40300
+:texture=spritesheet.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=enabled
+:alphahandling=ClearTransparentPixels
+
+Sprites-Characters-01;850;884;139;140; 0.5;0.5; 0;0;0;0
+Sprites-Characters-02;752;19;126;114; 0.5;0.5; 0;0;0;0
+Sprites-Characters-03;850;492;107;81; 0.5;0.5; 0;0;0;0
+Sprites-Characters-04;887;0;119;133; 0.5;0.5; 0;0;0;0
+Sprites-Characters-05;936;689;88;77; 0.5;0.5; 0;0;0;0
+Sprites-Characters-06;850;582;92;84; 0.5;0.5; 0;0;0;0
+Sprites-Characters-07;402;45;153;151; 0.5;0.5; 0;0;0;0
+Sprites-Characters-08;402;205;188;153; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Castle;649;736;192;288; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Desert;649;439;192;288; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Forest;0;367;192;288; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Grass;201;367;192;288; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Jungle;402;367;192;288; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Mountain;603;142;192;288; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Ocean;804;142;192;288; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Snow Forest;0;70;192;288; 0.5;0.5; 0;0;0;0
+Sprites-HexTiles-Volcano;201;70;192;288; 0.5;0.5; 0;0;0;0
+Sprites-UI-Background;0;664;640;360; 0.5;0.5; 0;0;0;0
+Sprites-UI-blank;603;541;4;4; 0.5;0.5; 0;0;0;0
+Sprites-UI-box_a_04;603;609;23;46; 0.5;0.5; 1;21;22;22
+Sprites-UI-box_b;564;9;46;46; 0.5;0.5; 22;22;22;22
+Sprites-UI-box_b_04;603;554;23;46; 0.5;0.5; 1;21;22;22
+Sprites-UI-box_c;619;9;46;46; 0.5;0.5; 22;22;22;22
+Sprites-UI-Button;564;64;179;69; 0.5;0.5; 20;20;20;23
+Sprites-UI-Character;959;795;61;80; 0.5;0.5; 0;0;0;0
+Sprites-UI-Checkmark;850;775;100;100; 0.5;0.5; 0;0;0;0
+Sprites-UI-Lock;850;675;77;91; 0.5;0.5; 0;0;0;0
+Sprites-UI-Mark;951;604;61;76; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: be4783a610e964d4d823da475bd2725d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1949347267939794297
+    second: Sprites-Characters-01
+  - first:
+      213: 2924519558601290407
+    second: Sprites-Characters-02
+  - first:
+      213: -4026590598395599849
+    second: Sprites-Characters-03
+  - first:
+      213: 7179106257948571967
+    second: Sprites-Characters-04
+  - first:
+      213: 2378009335840066034
+    second: Sprites-Characters-05
+  - first:
+      213: 6195271257184114198
+    second: Sprites-Characters-06
+  - first:
+      213: 7041098499211578010
+    second: Sprites-Characters-07
+  - first:
+      213: -6691450421020253438
+    second: Sprites-Characters-08
+  - first:
+      213: -881976037016336174
+    second: Sprites-HexTiles-Castle
+  - first:
+      213: -2822850923126941446
+    second: Sprites-HexTiles-Desert
+  - first:
+      213: 7872947453347524329
+    second: Sprites-HexTiles-Forest
+  - first:
+      213: 2294469507187978275
+    second: Sprites-HexTiles-Grass
+  - first:
+      213: -6773711800172862981
+    second: Sprites-HexTiles-Jungle
+  - first:
+      213: 6402537070822206143
+    second: Sprites-HexTiles-Mountain
+  - first:
+      213: 3439924670851363016
+    second: Sprites-HexTiles-Ocean
+  - first:
+      213: 9132496240071044055
+    second: Sprites-HexTiles-Snow Forest
+  - first:
+      213: -6440364088863143444
+    second: Sprites-HexTiles-Volcano
+  - first:
+      213: 820360792057476067
+    second: Sprites-UI-Background
+  - first:
+      213: -9164069343702767328
+    second: Sprites-UI-box_a_04
+  - first:
+      213: 518228479930189645
+    second: Sprites-UI-box_b
+  - first:
+      213: 4182062154552915884
+    second: Sprites-UI-box_b_04
+  - first:
+      213: 8534193540009244603
+    second: Sprites-UI-box_c
+  - first:
+      213: 6739674516280235482
+    second: Sprites-UI-Button
+  - first:
+      213: -6954650112772314010
+    second: Sprites-UI-Character
+  - first:
+      213: 4416973758025418651
+    second: Sprites-UI-Checkmark
+  - first:
+      213: 2498202902164432318
+    second: Sprites-UI-Lock
+  - first:
+      213: -7298657314756524668
+    second: Sprites-UI-Mark
+  - first:
+      213: 2161752104789292384
+    second: Sprites-UI-blank
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites-Characters-01
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 884
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7820296ecf682f4e0800000000000000
+      internalID: -1949347267939794297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Characters-02
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 19
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2bc153b0bf59820800000000000000
+      internalID: 2924519558601290407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Characters-03
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 492
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714e3be3f2dae18c0800000000000000
+      internalID: -4026590598395599849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Characters-04
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39fec5ea1f41a360800000000000000
+      internalID: 7179106257948571967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Characters-05
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 689
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f94f4744e2600120800000000000000
+      internalID: 2378009335840066034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Characters-06
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 582
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61695ab62660af550800000000000000
+      internalID: 6195271257184114198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Characters-07
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 45
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aca0a97c107b160800000000000000
+      internalID: 7041098499211578010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-Characters-08
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 205
+        width: 188
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20323fe7b413323a0800000000000000
+      internalID: -6691450421020253438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Castle
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 736
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d80c3d977792c3f0800000000000000
+      internalID: -881976037016336174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Desert
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 439
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af89221aa0833d8d0800000000000000
+      internalID: -2822850923126941446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Forest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee68140ff3524d60800000000000000
+      internalID: 7872947453347524329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Grass
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 367
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b7e33cd797df10800000000000000
+      internalID: 2294469507187978275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Jungle
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 367
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf123d3a101fef1a0800000000000000
+      internalID: -6773711800172862981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Mountain
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 142
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaa0a73b816ad850800000000000000
+      internalID: 6402537070822206143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Ocean
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 142
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0b23c33411dbf20800000000000000
+      internalID: 3439924670851363016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Snow Forest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db660eb1f42dbe70800000000000000
+      internalID: 9132496240071044055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-HexTiles-Volcano
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce94123dbfa3f96a0800000000000000
+      internalID: -6440364088863143444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e37e3e3bc1826b00800000000000000
+      internalID: 820360792057476067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-blank
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 541
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0653b6af516100e10800000000000000
+      internalID: 2161752104789292384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-box_a_04
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 609
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 22, z: 21, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029ac873c7fa2d080800000000000000
+      internalID: -9164069343702767328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-box_b
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 9
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 22, z: 22, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47caba8e0e113700800000000000000
+      internalID: 518228479930189645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-box_b_04
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 554
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 22, z: 21, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca73bbe3f5ba90a30800000000000000
+      internalID: 4182062154552915884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-box_c
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 9
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 22, z: 22, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb73facfecb8f6670800000000000000
+      internalID: 8534193540009244603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-Button
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 64
+        width: 179
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 23, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5d2a4a342288d50800000000000000
+      internalID: 6739674516280235482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-Character
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 795
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c631bd19e1c7f90800000000000000
+      internalID: -6954650112772314010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-Checkmark
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 775
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97c3551b3e3c4d30800000000000000
+      internalID: 4416973758025418651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-Lock
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 675
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb56c50bd466ba220800000000000000
+      internalID: 2498202902164432318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-UI-Mark
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 604
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48581a897d5f5ba90800000000000000
+      internalID: -7298657314756524668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

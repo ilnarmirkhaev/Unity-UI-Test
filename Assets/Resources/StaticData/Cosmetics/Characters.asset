@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ada4aadc4a4200bf5c213f358657e5, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  Type: 1
+  Items:
+  - Name: Abraham
+    Sprite: {fileID: 2378009335840066034, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 1
+  - Name: Boris
+    Sprite: {fileID: -4026590598395599849, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
+  - Name: Charlie
+    Sprite: {fileID: 2924519558601290407, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
+  - Name: Daniel
+    Sprite: {fileID: -6691450421020253438, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 1
+  - Name: Ellie
+    Sprite: {fileID: 7179106257948571967, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 1
+  - Name: Freddy
+    Sprite: {fileID: -1949347267939794297, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
+  - Name: Gabe
+    Sprite: {fileID: 7041098499211578010, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
+  - Name: Holly
+    Sprite: {fileID: 6195271257184114198, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0

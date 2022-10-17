@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ada4aadc4a4200bf5c213f358657e5, type: 3}
+  m_Name: Stands
+  m_EditorClassIdentifier: 
+  Type: 2
+  Items:
+  - Name: Grass
+    Sprite: {fileID: 2294469507187978275, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 1
+  - Name: Castle
+    Sprite: {fileID: -881976037016336174, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
+  - Name: Desert
+    Sprite: {fileID: -2822850923126941446, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 1
+  - Name: Forest
+    Sprite: {fileID: 7872947453347524329, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 1
+  - Name: Mountain
+    Sprite: {fileID: 6402537070822206143, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
+  - Name: Ocean
+    Sprite: {fileID: 3439924670851363016, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
+  - Name: Volcano
+    Sprite: {fileID: -6440364088863143444, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 1
+  - Name: Winter Forest
+    Sprite: {fileID: 9132496240071044055, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
+  - Name: Jungle
+    Sprite: {fileID: -6773711800172862981, guid: be4783a610e964d4d823da475bd2725d, type: 3}
+    IsOwned: 0
